@@ -1,5 +1,5 @@
 {
-  "locale": "en",
+  "locale": "es",
   "protocol": "http",
   "host": "localhost",
   "publicPort": 3000,
@@ -12,7 +12,7 @@
   "signinUrl": "",
   "signupUrl": "",
   "settingsUrl": "",
-  "staff": [],
+  "staff": ["arielpont@hotmail.com", "admin1@aeidos.com.ar", "admin2@aeidos.com.ar", "admin3@aeidos.com.ar", "admin4@aeidos.com.ar", "admin5@aeidos.com.ar"],
   "facebookSignin": false,
   "auth": {
     "basic": {
@@ -67,27 +67,27 @@
     "usersWhitelist"
   ],
   "socialshare": {
-    "siteName": "DemocracyOS",
-    "siteDescription": "DemocracyOS voting system",
+    "siteName": "EDJ.AR | PLATAFORMA",
+    "siteDescription": "EDJ.AR | PLATAFORMA",
     "image": "https://2.gravatar.com/avatar/a8b9176bd0d042db078bf38500727671?d=https%3A%2F%2Fidenticons.github.com%2F14bae9f2564556f8eb23cc263a779f59.png&s=400",
-    "domain": "democracyos.org",
+    "domain": "ecodebatejoven.org",
     "twitter": {
-      "username": "@democracyos"
+      "username": "@ecodebatejoven"
     }
   },
-  "logo": "/lib/boot/images/logo.png",
-  "logoMobile": "/lib/boot/images/logo.png",
-  "favicon": " /lib/boot/images/favicon.ico",
-  "organizationName": "DemocracyOS on GitHub",
-  "organizationUrl": "https://github.com/DemocracyOS/app",
-  "learnMoreUrl": "http://www.democracyos.org",
-  "googleAnalyticsTrackingId": "",
+  "logo": "https://dl.dropboxusercontent.com/u/71896271/Plataforma/logo.png",
+  "logoMobile": "https://dl.dropboxusercontent.com/u/71896271/Plataforma/logo.png",
+  "favicon": "https://dl.dropboxusercontent.com/u/71896271/Plataforma/logo.png",
+  "organizationName": "EDJ.AR",
+  "organizationUrl": "https://www.ecodebatejoven.org",
+  "learnMoreUrl": "https://www.ecodebatejoven.org",
+  "googleAnalyticsTrackingId": "UA-616724633-1",
   "rssEnabled": true,
   "commentsPerPage": 0,
-  "spamLimit": 5,
+  "spamLimit": 2,
   "frequentlyAskedQuestions": false,
-  "termsOfService": false,
-  "privacyPolicy": false,
+  "termsOfService": true,
+  "privacyPolicy": true,
   "glossary": false,
   "homeLink": "/",
   "clientDebug": "",
