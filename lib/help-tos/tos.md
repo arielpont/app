@@ -1,4 +1,4 @@
-
+###-
 # Bases y Condiciones
 
 ## CONCURSO "EDJ Argentina"
