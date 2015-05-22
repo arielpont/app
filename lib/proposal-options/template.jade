@@ -35,8 +35,8 @@
             i.flaticon.solid.pause
             span= t('proposal-options.abstain')
        a.vote-option.vote-no(href="#", data-proposal=proposal.id)
-  //-       i.flaticon.solid.thumbs-up-1
-  //-       span= t('proposal-options.nay')
+            i.flaticon.solid.thumbs-up-1
+            span= t('proposal-options.nay')
 
         - if (!citizen.id)
           p.text-mute.overlay-vote.hide= t('proposal-options.must-be-signed-in') + '. '
