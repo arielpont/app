@@ -1,7 +1,7 @@
 {
   "locale": "es",
   "protocol": "http",
-  "host": "localhost",
+  "host": "http://104.238.103.95/",
   "publicPort": 3000,
   "mongoUrl": "mongodb://localhost/DemocracyOS-dev",
   "mongoUsersUrl": "",
