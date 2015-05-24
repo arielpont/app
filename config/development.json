@@ -1,7 +1,7 @@
 {
   "locale": "es",
   "protocol": "http",
-  "host": "www.edjargentina.org:3000",
+  "host": "http://www.edjargentina.org",
   "publicPort": 3000,
   "mongoUrl": "mongodb://localhost/DemocracyOS-dev",
   "mongoUsersUrl": "",
