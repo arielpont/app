@@ -69,7 +69,7 @@
   "socialshare": {
     "siteName": "EDJ.AR | PLATAFORMA",
     "siteDescription": "EDJ.AR | PLATAFORMA",
-    "image": "https://2.gravatar.com/avatar/a8b9176bd0d042db078bf38500727671?d=https%3A%2F%2Fidenticons.github.com%2F14bae9f2564556f8eb23cc263a779f59.png&s=400",
+    "image": "https://dl.dropboxusercontent.com/u/71896271/Plataforma/logo.png",
     "domain": "ecodebatejoven.org",
     "twitter": {
       "username": "@ecodebatejoven"
@@ -87,7 +87,7 @@
   "spamLimit": 2,
   "frequentlyAskedQuestions": false,
   "termsOfService": true,
-  "privacyPolicy": false,
+  "privacyPolicy": true,
   "glossary": false,
   "homeLink": "/",
   "clientDebug": "",
