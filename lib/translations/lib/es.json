@@ -275,7 +275,7 @@
   "signup.accepting": "Registrándote estás aceptando nuestros:",
   "signup.being-redirected": "En 5 segundos serás redirigido",
   "signup.browsing": "comenzar",
-  "signup.check-email": "El siguiente paso es abrir el correo electrónico que te hemos enviado (chequear "Correo no Deseado") y hacer click en el enlace enviado.",
+  "signup.check-email": "El siguiente paso es abrir el correo electrónico que te hemos enviado (chequear 'Correo no Deseado' o 'Spam') y hacer click en el enlace enviado.",
   "signup.complete": "Registro finalizado",
   "signup.email": "Correo electrónico",
   "signup.email-sent": "Correo electrónico enviado",
