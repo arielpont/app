@@ -12,7 +12,7 @@
   "signinUrl": "",
   "signupUrl": "",
   "settingsUrl": "",
-  "staff": ["arielpont@hotmail.com", "ariel@aeidos.com.ar", "admin1@aeidos.com.ar", "admin2@aeidos.com.ar", "admin3@aeidos.com.ar", "admin4@aeidos.com.ar", "admin5@aeidos.com.ar"],
+  "staff": ["arielpont@hotmail.com", "ariel@aeidos.com.ar", "lucia@aeidos.com.ar", "admin1@aeidos.com.ar", "admin2@aeidos.com.ar", "admin3@aeidos.com.ar", "admin4@aeidos.com.ar", "admin5@aeidos.com.ar"],
   "facebookSignin": false,
   "auth": {
     "basic": {
